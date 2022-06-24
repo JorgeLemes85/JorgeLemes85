@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Jorge Lemes
+
+
+
+[![Duart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeLemes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff9e36&bg_color=2F3640)](#)
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,github,git,angular)](https://skills.thijs.gg)
+
 
 <!--
 **JorgeLemes85/JorgeLemes85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+dificillllll
