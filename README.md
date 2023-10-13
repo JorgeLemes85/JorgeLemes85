@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/JorgeLemes85">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jebcode2021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebcode2021&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JorgeLemes85&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLemes85&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
   ##
