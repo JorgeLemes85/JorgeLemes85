@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <a href="https://github.com/jebcode2021">
+  <a href="https://github.com/JorgeLemes85">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jebcode2021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebcode2021&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
